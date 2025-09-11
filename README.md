@@ -50,7 +50,7 @@
 ---
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/Subhrakanta-Behera049/Subhrakanta-Behera049/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Subhrakanta-Behera049/Subhrakanta-Behera049/blob/output/snake.svg)
 ---
 
 ## 🧠 Currently Learning
